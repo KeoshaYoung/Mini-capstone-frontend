@@ -4,6 +4,8 @@
     |
     <router-link to="/products">Products</router-link>
     |
+    <router-link to="/products/new">New Product</router-link>
+    |
     <router-link to="/about">About</router-link>
   </nav>
   <router-view />
